@@ -36,7 +36,7 @@ google-generativeai==0.8.4
 googleapis-common-protos==1.68.0
 grpcio==1.70.0
 grpcio-status==1.70.0
-h11==0.14.0
+h11==0.16.0
 httpcore==1.0.7
 httplib2==0.22.0
 httpx==0.28.1
@@ -104,7 +104,7 @@ stripe==11.6.0
 sympy==1.13.1
 threadpoolctl==3.5.0
 tokenizers==0.21.0
-torch==2.6.0
+torch==2.7.0
 tqdm==4.67.1
 transformers==4.49.0
 typing_extensions==4.12.2
