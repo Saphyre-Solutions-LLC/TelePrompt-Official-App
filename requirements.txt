@@ -75,7 +75,7 @@ pycparser==2.22
 pydantic==2.10.6
 pydantic_core==2.27.2
 pyee==12.1.1
-Pygments==2.19.1
+Pygments==2.20.0
 pyinstaller==6.12.0
 pyinstaller-hooks-contrib==2025.1
 pylibsrtp==0.11.0
